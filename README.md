@@ -1,9 +1,7 @@
-# code_challengeday5
-# code_challenge1python
-# code_challenge1python
-# code_challege2
-# code_challege2
-# oop_challnge
-# code_challenge2
-# code_challenge2
-# code_challenge2
+#Coffee shop
+
+##SETUP
+clone the repositoy
+git clone <repository-url>
+cd coffee_shop
+
